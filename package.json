@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-      "postinstall": "chmod -R +x node_modules/.bin || true",
+    
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
